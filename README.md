@@ -1,8 +1,9 @@
 # German MP Data Processing
 
 Dataset of translated and profession-tagged German MPs from an Open Data XML (https://www.bundestag.de/services/opendata)
+Data Source: Deutscher Bundestag/Bundesrat - DIP 
 
-Translation / Tagging / Data extraction is Claude-assisted. 
+Further Translation / Tagging / Data extraction is Claude-assisted. 
 
 This repository contains scripts to process and analyze data about Members of the German Bundestag (MPs). The main script performs the following tasks:
 
