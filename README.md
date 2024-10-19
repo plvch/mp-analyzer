@@ -1,4 +1,4 @@
-# German MP Data Processing
+# German MP Data Transformation exercise (check for professions)
 
 Dataset of translated and profession-tagged German MPs from an Open Data XML (https://www.bundestag.de/services/opendata)
 Data Source: Deutscher Bundestag/Bundesrat - DIP 
